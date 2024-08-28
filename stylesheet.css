@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fenwick';
+    src: url('Fenwick.woff2') format('woff2'),
+        url('Fenwick.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
